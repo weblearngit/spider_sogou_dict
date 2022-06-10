@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm
+.idea
+
+# vscode
+.vscode
+
+# 输出文件
+output-*.*
